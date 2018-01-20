@@ -1,0 +1,4 @@
+#Tue Jan 16 16:35:38 KST 2018
+__DEFAULT__=false
+org.eclipse.help.ui.localSearch.master=true
+expression=configure name
